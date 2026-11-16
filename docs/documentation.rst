@@ -91,3 +91,14 @@ HNSW
 .. autoclass:: datasketch.HNSW
     :members:
     :special-members:
+
+HNSW Nearest Neighbor Classifier
+--------------------------------
+
+.. autoclass:: datasketch.HNSWNearestNeighborClassifier
+    :members:
+    :special-members:
+
+.. autoclass:: datasketch.ClassificationResult
+    :members:
+    :special-members:
